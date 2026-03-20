@@ -1,0 +1,7 @@
+Lets try pulling to rebase
+
+1. make new branch first
+git checkout -b adding-member-management
+
+2. fetch from upstream
+3. rebase
